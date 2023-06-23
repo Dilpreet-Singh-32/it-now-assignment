@@ -1,0 +1,16 @@
+.search-bar {
+  margin: 10px auto;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-bar input {
+  width: 200px;
+  margin-right: 15px;
+}
+
+.search-bar label {
+  text-align: start;
+}

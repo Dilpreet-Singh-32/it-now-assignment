@@ -1,0 +1,7 @@
+export enum INPUT_CONTROL_TYPE {
+  TEXT,
+  NUMBER,
+  EMAIL,
+  DATE_PICKER,
+  DROPDOWN,
+}
